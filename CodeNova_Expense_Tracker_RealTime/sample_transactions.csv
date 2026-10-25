@@ -1,0 +1,8 @@
+date,type,category,amount,description
+2026-10-01,Income,Salary,20000.00,Sample monthly salary
+2026-10-02,Expense,Food,1500.00,Sample groceries
+2026-10-04,Expense,Travel,500.00,Sample bus and auto
+2026-10-05,Expense,Utilities,850.00,Sample electricity bill
+2026-10-07,Income,Freelance,2500.00,Sample freelance work
+2026-10-10,Expense,Education,1200.00,Sample course material
+2026-10-12,Expense,Entertainment,350.00,Sample movie ticket
