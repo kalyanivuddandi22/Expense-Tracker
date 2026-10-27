@@ -1,4 +1,4 @@
-# ExpenseFlow — CodeNova Python Internship Task 2
+# ExpenseFlow 
 
 A responsive, full-stack Expense Tracker built with **Python, Flask, SQLite, HTML, CSS, and JavaScript**. It meets the main CodeNova Task 2 requirements and adds a dashboard interface.
 
