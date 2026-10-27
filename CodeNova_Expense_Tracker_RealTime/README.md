@@ -1,6 +1,6 @@
-# ExpenseFlow 
+# ExpenseTracker 
 
-A responsive, full-stack Expense Tracker built with **Python, Flask, SQLite, HTML, CSS, and JavaScript**. It meets the main CodeNova Task 2 requirements and adds a dashboard interface.
+A responsive, full-stack Expense Tracker built with **Python, Flask, SQLite, HTML, CSS, and JavaScript**. It meets the main requirements and adds a dashboard interface.
 
 ## Features
 - Record income and expenses with date, category, amount, type, and description.
