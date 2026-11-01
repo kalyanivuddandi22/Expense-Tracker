@@ -151,6 +151,9 @@ def export_csv():
 @app.get("/api/health")
 def health(): return jsonify({"status":"ok"})
 
+
+init_db()
+
 if __name__ == "__main__":
-    init_db()
     app.run(debug=True)
+
